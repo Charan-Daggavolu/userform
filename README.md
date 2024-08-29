@@ -1,4 +1,13 @@
-"# userform" 
+"# Adding Nodes & viewing all nodes & Import CSV file to database"
+
+• Schema design based on Figma attributes. 
+• Validations to ensure data integrity and prevent invalid inputs. 
+• RESTful APIs to add and fetch nodes. 
+• Containerized MySQL setup using Docker. 
+• With help of jenkins pipeline Script created image and container for MySQL and Application and deployed. 
+• Scalable and secure deployment using AWS EC2.
+
+
 Testing: Use postman 
 34.232.14.85 this elastic ip 
 POST method : http://34.232.14.85:8000/api/users/addnode -- Add nodes 
