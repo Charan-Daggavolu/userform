@@ -3,6 +3,7 @@
 • Schema design based on Figma attributes. 
 • Validations to ensure data integrity and prevent invalid inputs. 
 • RESTful APIs to add and fetch nodes. 
+• Validated code through SonarQube.
 • Containerized MySQL setup using Docker. 
 • With help of jenkins pipeline Script created image and container for MySQL and Application and deployed. 
 • Scalable and secure deployment using AWS EC2.
